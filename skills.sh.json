@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "nax-ui",
+      "description": "uni-app x UI 组件库 nax-ui 的使用指南：组件速查、API 参考与主题接入。",
+      "skills": [
+        "nax-ui"
+      ]
+    }
+  ]
+}
