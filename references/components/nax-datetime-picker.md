@@ -42,18 +42,6 @@ uni-app x 时间选择器（底部弹层 + `picker-view`）。
 | mask-closable | true | 点遮罩关闭 |
 | safe-area-inset-bottom | true | 底部安全区 |
 
-## Events
-
-| 事件 | 说明 |
-|---|---|
-| update:show | 显隐 |
-| update:modelValue | 确认后回写选中值（时间戳 ms 或日期字符串）；清除时回写 `0` |
-| confirm | 确认，回调字段：value / timestamp / formatted / year / month / day / hour / minute / second / mode |
-| cancel | 取消或遮罩关闭 |
-| clear | 点击触发条清除按钮 |
-| change | 滚轮变化 |
-| open / close | 打开 / 关闭 |
-
 ## 依赖
 
 - `nax-icon`（触发条箭头）
